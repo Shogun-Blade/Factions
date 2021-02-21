@@ -19,7 +19,7 @@ apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 
 version = "1.1.0-beta"
-group = "com.demmodders.factions" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+group = "com.demmodders.Clan" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = "demfactions"
 
 sourceCompatibility = targetCompatibility = compileJava.sourceCompatibility = compileJava.targetCompatibility = '1.8' // Need this here so eclipse task generates correctly.

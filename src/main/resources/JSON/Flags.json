@@ -1,21 +1,21 @@
 {
   "version" : 0,
   "playerFlags":{
-    "open" : "The faction doesn't require any invites",
-    "friendlyfire" : "The faction doesn't prevent the members from killing each other"
+    "open": "The Clan doesn't require any invites",
+    "friendlyfire": "The Clan doesn't prevent the members from killing each other"
   },
-  "adminFlags":{
-    "nopowerloss" : "You don't lose power when you die in this zone",
-    "permanent" : "The faction cannot be deleted",
-    "silent" : "The faction isn't mentioned when you cross its border",
-    "strongborders" : "The faction's land cannot be claimed",
-    "infinitepower" : "The faction has unlimited power",
-    "unlimitedland" : "The faction has no limit to the amount of land it can have",
-    "unrelateable" : "The faction cannot have relations",
-    "uncharted" : "The faction does not show up on a map",
-    "default" : "The faction is one of the default factions",
-    "nodamage" : "You cannot take damage on this faction's land",
-    "nobuild" : "Players can't break or place blocks in this region",
-    "bonuspower" : "You lose/gain more power when you die/kill on this faction's land"
+  "adminFlags": {
+    "nopowerloss": "You don't lose power when you die in this zone",
+    "permanent": "The Clan cannot be deleted",
+    "silent": "The Clan isn't mentioned when you cross its border",
+    "strongborders": "The Clan's land cannot be claimed",
+    "infinitepower": "The Clan has unlimited power",
+    "unlimitedland": "The Clan has no limit to the amount of land it can have",
+    "unrelateable": "The Clan cannot have relations",
+    "uncharted": "The Clan does not show up on a map",
+    "default": "The Clan is one of the default Clan",
+    "nodamage": "You cannot take damage on this Clan's land",
+    "nobuild": "Players can't break or place blocks in this region",
+    "bonuspower": "You lose/gain more power when you die/kill on this Clan's land"
   }
 }
